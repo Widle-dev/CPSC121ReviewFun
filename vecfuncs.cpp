@@ -1,5 +1,7 @@
 #include "vecfuncs.h"
 
+// comment
+
 void fillVector(vector<int> &vec) {
   int num;
 
